@@ -1,0 +1,1 @@
+{"description":"The 3 AM Excuse: a hardware wallet refuses to sign a transaction at 3 AM.","license":"MIT","main":"main.ts","name":"u-hazel-walrus-38-4764-the-3-am-excuse-c1017878","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
